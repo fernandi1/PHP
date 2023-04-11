@@ -1,3 +1,5 @@
 <?php
 
-echo "hello kakak ahyar ganteng kan ?? ";
+echo "Fernandi Julian Winardi";
+echo "52020016";
+echo "Teknik Informatika";
