@@ -1,5 +1,5 @@
 <?php
 
-echo "Fernandi Julian Winardi";
-echo "52020016";
-echo "Teknik Informatika";
+echo "Fernandi Julian Winardi<br>";
+echo "52020016<br>";
+echo "Teknik Informatika<br>";
